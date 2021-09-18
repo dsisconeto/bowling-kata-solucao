@@ -48,13 +48,13 @@ retorno esperado = 133
 
 ## Jogo com um strike.
 
-int[] jogadas = { 0,0,0,0,0,0,0,0,0,0,0,0,0,0,**10**,<u>2,3</u>,0,0 };
+int[] jogadas = { 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, **10**, <u>2,3</u>, 0,0 };
 <br>
 Retorno esperado = 20
 
 ## Jogo com um Spare.
 
-int[] jogadas = { 0,0,0,0,0,0,0,0,0,0,0,0,0,0,**2,8**,<u>2</u>,3,0,0 };
+int[] jogadas = { 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, **2,8**, <u>2</u>,3, 0,0 };
 <br>
 retorno esperado = 17
 
