@@ -6,9 +6,9 @@ auxílio no entendimento, os exemplos são reais e seu uso é opcional.
 
 `````java
 class CalculadoraPontuacaoBoliche {
-	int pontuacaoDoJogo(int[] jogadas) {
-		return 0;
-	}
+   int pontuacaoDoJogo(int[] jogadas) {
+	return 0;
+   }
 }
 `````
 
